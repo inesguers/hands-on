@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "DIRECTORIES": {
     "DATA_DIR": "../../DATA",
@@ -11,4 +12,20 @@
         "DATABASE":{
         "GAS_DB": "gas_db.p"
 }
+=======
+   {
+    "DIRECTORIES": {
+    "DATA_DIR": "../../data",
+    "TMP_DIR": "../../tmp"
+   },
+     "FILES" : {
+         "PRICE_FILE": "price.p",
+         "STATION_FILE": "stations.p",
+         "SERVICES_FILE": "services.p"
+         
+    },
+    "DATABASES" : {
+        "GAS_DB": "gas.db"
+    }
+>>>>>>> d052df1c2559fb7243a479227cff4a4f8e460a30
 }
